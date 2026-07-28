@@ -1,70 +1,153 @@
 {
-  "_comment": "Posting order + state for the Small Wins Club queue. swc_publish.py reads and updates this. status: pending | queued | published. approved: Tim has personally reviewed this post; NOTHING is ever scheduled without it. Buffer's free plan caps the queue at 10 scheduled posts per channel, so approved posts wait for a slot.",
+  "_comment": "Posting order + state for the Small Wins Club queue. status: pending | queued | published. approved: Tim has personally reviewed this post; NOTHING is ever scheduled without it. batch: which posts/batch-NN folder it lives in locally. 'dir' is a GLOBALLY UNIQUE id and also the path inside the media repo -- never rename it, live posts reference it by URL.",
   "channel": "the.small.wins.club",
   "media_repo": "https://raw.githubusercontent.com/timmyV90/small-wins-club-media/main/posts",
   "queue": [
     {
       "order": 1,
+      "dir": "hook-carousel-1",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 2,
+      "dir": "hook-carousel-2",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 3,
+      "dir": "hook-carousel-3",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 4,
+      "dir": "hook-carousel-4",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 5,
+      "dir": "hook-carousel-5",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 6,
+      "dir": "narrative-carousel-1",
+      "slides": 6,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 7,
+      "dir": "narrative-carousel-2",
+      "slides": 6,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 1,
+      "status": "published",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 8,
       "dir": "hook-carousel-11",
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
       "status": "queued",
       "buffer_post_id": "6a68db025863ca49976f048b",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 2,
+      "order": 9,
       "dir": "hook-carousel-7",
       "slides": 2,
       "color": "pink",
       "cta": "shop-pitch",
       "status": "queued",
       "buffer_post_id": "6a68db21eb77dfcd8f3512d3",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 3,
+      "order": 10,
       "dir": "hook-carousel-6",
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
       "status": "queued",
       "buffer_post_id": "6a68db222ad4ee043d41e13e",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 4,
+      "order": 11,
       "dir": "hook-carousel-13",
       "slides": 2,
       "color": "pink",
       "cta": "follow-only",
       "status": "queued",
       "buffer_post_id": "6a68db2237b43f31a75ee3c4",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 5,
+      "order": 12,
       "dir": "hook-carousel-12",
       "slides": 2,
       "color": "cream",
       "cta": "shop-pitch",
       "status": "queued",
       "buffer_post_id": "6a68db2337b43f31a75ee3e7",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 6,
+      "order": 13,
       "dir": "hook-carousel-8",
       "slides": 2,
       "color": "pink",
       "cta": "follow-only",
       "status": "queued",
       "buffer_post_id": "6a68db234a1a98c40666f8f3",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 7,
+      "order": 14,
       "dir": "narrative-carousel-3",
       "slides": 6,
       "color": "cream",
@@ -72,30 +155,33 @@
       "status": "queued",
       "buffer_post_id": "6a68db24eb77dfcd8f3512f8",
       "approved": true,
-      "claims_confirmed": "2026-07-28"
+      "claims_confirmed": "2026-07-28",
+      "batch": 2
     },
     {
-      "order": 8,
+      "order": 15,
       "dir": "hook-carousel-10",
       "slides": 2,
       "color": "pink",
       "cta": "shop-pitch",
       "status": "queued",
       "buffer_post_id": "6a68db255863ca49976f0594",
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 9,
+      "order": 16,
       "dir": "hook-carousel-9",
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
       "status": "pending",
       "buffer_post_id": null,
-      "approved": true
+      "approved": true,
+      "batch": 2
     },
     {
-      "order": 10,
+      "order": 17,
       "dir": "narrative-carousel-4",
       "slides": 6,
       "color": "pink",
@@ -103,7 +189,9 @@
       "status": "pending",
       "buffer_post_id": null,
       "approved": true,
-      "claims_confirmed": "2026-07-28"
+      "claims_confirmed": "2026-07-28",
+      "batch": 2
     }
-  ]
+  ],
+  "local_posts_root": "posts"
 }
