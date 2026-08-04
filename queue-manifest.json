@@ -175,7 +175,7 @@
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "buffer_post_id": null,
       "approved": true,
       "batch": 2
@@ -186,11 +186,123 @@
       "slides": 6,
       "color": "pink",
       "cta": "shop-pitch",
-      "status": "pending",
+      "status": "queued",
       "buffer_post_id": null,
       "approved": true,
       "claims_confirmed": "2026-07-28",
       "batch": 2
+    },
+    {
+      "order": 18,
+      "dir": "hook-carousel-14",
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "queued",
+      "buffer_post_id": "6a723851eb40f0fefbf00958",
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 19,
+      "dir": "hook-carousel-15",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "queued",
+      "buffer_post_id": "6a723852cbe1782802937f03",
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 20,
+      "dir": "hook-carousel-16",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "queued",
+      "buffer_post_id": "6a7238532763d217e944dfee",
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 21,
+      "dir": "hook-carousel-17",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "queued",
+      "buffer_post_id": "6a723853cbe1782802937f26",
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 22,
+      "dir": "narrative-carousel-5",
+      "slides": 6,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "queued",
+      "buffer_post_id": "6a7238547fda1cbb649a5f67",
+      "approved": true,
+      "batch": 3,
+      "claims_confirmed": "2026-08-04"
+    },
+    {
+      "order": 23,
+      "dir": "hook-carousel-18",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "queued",
+      "buffer_post_id": "6a7238547fda1cbb649a5f8a",
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 24,
+      "dir": "hook-carousel-19",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "buffer_post_id": null,
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 25,
+      "dir": "hook-carousel-20",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "buffer_post_id": null,
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 26,
+      "dir": "hook-carousel-21",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "buffer_post_id": null,
+      "approved": true,
+      "batch": 3
+    },
+    {
+      "order": 27,
+      "dir": "narrative-carousel-6",
+      "slides": 6,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "buffer_post_id": null,
+      "approved": true,
+      "batch": 3,
+      "claims_confirmed": "2026-08-04"
     }
   ],
   "local_posts_root": "posts"
