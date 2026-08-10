@@ -210,9 +210,9 @@
       "color": "pink",
       "cta": "shop-pitch",
       "status": "queued",
-      "buffer_post_id": "6a723852cbe1782802937f03",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8b3d4de5229d750e77"
     },
     {
       "order": 20,
@@ -221,9 +221,9 @@
       "color": "cream",
       "cta": "shop-pitch",
       "status": "queued",
-      "buffer_post_id": "6a7238532763d217e944dfee",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8b1185e3d59ea974ef"
     },
     {
       "order": 21,
@@ -232,9 +232,9 @@
       "color": "pink",
       "cta": "follow-only",
       "status": "queued",
-      "buffer_post_id": "6a723853cbe1782802937f26",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8c1185e3d59ea97512"
     },
     {
       "order": 22,
@@ -243,10 +243,10 @@
       "color": "cream",
       "cta": "shop-pitch",
       "status": "queued",
-      "buffer_post_id": "6a7238547fda1cbb649a5f67",
       "approved": true,
       "batch": 3,
-      "claims_confirmed": "2026-08-04"
+      "claims_confirmed": "2026-08-04",
+      "buffer_post_id": "6a79fb8db6b42c39129dd5a0"
     },
     {
       "order": 23,
@@ -255,9 +255,9 @@
       "color": "pink",
       "cta": "follow-only",
       "status": "queued",
-      "buffer_post_id": "6a7238547fda1cbb649a5f8a",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8d06d9ba9397974536"
     },
     {
       "order": 24,
@@ -265,10 +265,10 @@
       "slides": 2,
       "color": "cream",
       "cta": "shop-pitch",
-      "status": "pending",
-      "buffer_post_id": null,
+      "status": "queued",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8eb6b42c39129dd5c3"
     },
     {
       "order": 25,
@@ -276,10 +276,10 @@
       "slides": 2,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
-      "buffer_post_id": null,
+      "status": "queued",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8e06d9ba9397974559"
     },
     {
       "order": 26,
@@ -287,10 +287,10 @@
       "slides": 2,
       "color": "cream",
       "cta": "shop-pitch",
-      "status": "pending",
-      "buffer_post_id": null,
+      "status": "queued",
       "approved": true,
-      "batch": 3
+      "batch": 3,
+      "buffer_post_id": "6a79fb8f3d4de5229d750ed7"
     },
     {
       "order": 27,
