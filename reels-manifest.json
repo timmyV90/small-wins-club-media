@@ -1,61 +1,116 @@
 {
- "_comment": "Reel versions of existing posts. approved: Tim has watched this exact video; nothing is posted or scheduled without it. source_post is the carousel the copy came from.",
- "reels": [
-  {
-   "order": 1,
-   "dir": "hook-carousel-14-reel",
-   "source_post": "hook-carousel-14",
-   "color": "cream",
-   "cta": "follow-only",
-   "seconds": 14.2,
-   "music": "cafe.mp3",
-   "status": "queued",
-   "approved": true,
-   "buffer_post_id": "6a74f352f6ddee415dd4ee3a"
-  },
-  {
-   "order": 2,
-   "dir": "hook-carousel-15-reel",
-   "source_post": "hook-carousel-15",
-   "color": "pink",
-   "cta": "shop-pitch",
-   "seconds": 14.2,
-   "music": "monkeybars.mp3",
-   "status": "pending",
-   "approved": true
-  },
-  {
-   "order": 3,
-   "dir": "hook-carousel-19-reel",
-   "source_post": "hook-carousel-19",
-   "color": "cream",
-   "cta": "shop-pitch",
-   "seconds": 14.2,
-   "music": "break.mp3",
-   "status": "pending",
-   "approved": true
-  },
-  {
-   "order": 4,
-   "dir": "hook-carousel-17-reel",
-   "source_post": "hook-carousel-17",
-   "color": "pink",
-   "cta": "follow-only",
-   "seconds": 14.2,
-   "music": "ramen.mp3",
-   "status": "pending",
-   "approved": true
-  },
-  {
-   "order": 5,
-   "dir": "hook-carousel-21-reel",
-   "source_post": "hook-carousel-21",
-   "color": "cream",
-   "cta": "shop-pitch",
-   "seconds": 14.2,
-   "music": "lofi-lion.mp3",
-   "status": "pending",
-   "approved": true
-  }
- ]
+  "_comment": "Reel versions of existing posts. approved: Tim has watched this exact video; nothing is posted or scheduled without it. source_post is the carousel the copy came from.",
+  "reels": [
+    {
+      "order": 1,
+      "dir": "hook-carousel-14-reel",
+      "source_post": "hook-carousel-14",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 14.2,
+      "music": "cafe.mp3",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6a74f352f6ddee415dd4ee3a"
+    },
+    {
+      "order": 2,
+      "dir": "hook-carousel-15-reel",
+      "source_post": "hook-carousel-15",
+      "color": "pink",
+      "cta": "shop-pitch",
+      "seconds": 14.2,
+      "music": "monkeybars.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 3,
+      "dir": "hook-carousel-19-reel",
+      "source_post": "hook-carousel-19",
+      "color": "cream",
+      "cta": "shop-pitch",
+      "seconds": 14.2,
+      "music": "break.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 4,
+      "dir": "hook-carousel-17-reel",
+      "source_post": "hook-carousel-17",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 14.2,
+      "music": "ramen.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 5,
+      "dir": "hook-carousel-21-reel",
+      "source_post": "hook-carousel-21",
+      "color": "cream",
+      "cta": "shop-pitch",
+      "seconds": 14.2,
+      "music": "lofi-lion.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 6,
+      "dir": "hook-carousel-22-reel",
+      "source_post": "hook-carousel-22",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 14.2,
+      "music": "cafe.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 7,
+      "dir": "hook-carousel-23-reel",
+      "source_post": "hook-carousel-23",
+      "color": "pink",
+      "cta": "shop-pitch",
+      "seconds": 14.2,
+      "music": "monkeybars.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 8,
+      "dir": "hook-carousel-26-reel",
+      "source_post": "hook-carousel-26",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 14.2,
+      "music": "break.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 9,
+      "dir": "hook-carousel-27-reel",
+      "source_post": "hook-carousel-27",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 14.2,
+      "music": "ramen.mp3",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 10,
+      "dir": "hook-carousel-29-reel",
+      "source_post": "hook-carousel-29",
+      "color": "cream",
+      "cta": "shop-pitch",
+      "seconds": 14.2,
+      "music": "lofi-lion.mp3",
+      "status": "pending",
+      "approved": true
+    }
+  ]
 }
