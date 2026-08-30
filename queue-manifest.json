@@ -467,9 +467,9 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6a8815495d32580681ee9672"
     },
     {
       "order": 43,
