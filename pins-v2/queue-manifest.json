@@ -2,6 +2,86 @@
   "queue": [
     {
       "order": 0,
+      "file": "w6-first-walk-kit.png",
+      "title": "Weighted vest walking gear - what to bring on every walk",
+      "desc": "The vest raises your heart rate 15-25 bpm, so you sweat like a harder workout: water on every walk, electrolytes past 45 minutes, cushioned shoes, a snug layer under the straps. Free calculator for your starting load.",
+      "link": "https://glowup90challenge.com/vest/",
+      "board": "Self Improvement Printables",
+      "boardServiceId": "1110700395541740415",
+      "approved": true
+    },
+    {
+      "order": 1,
+      "file": "w6-chart.png",
+      "title": "Weighted vest walking plan PDF - how heavy chart, 8 weeks, walk log",
+      "desc": "8 pages: the how-heavy chart, a safety page, the 8-week plan with indoor options, a 24-walk log and a weekly check-in. A4 and US Letter, instant download.",
+      "link": "https://www.etsy.com/listing/4565511692",
+      "board": "Beginner Gym Guide for Women",
+      "boardServiceId": "1110700395541740416",
+      "approved": true
+    },
+    {
+      "order": 2,
+      "file": "w6-too-heavy.png",
+      "title": "How heavy should a weighted vest be? Start at 5% of your bodyweight",
+      "desc": "A 12 lb starter vest is over 10% of bodyweight for anyone under 55 kg. Start at 5%, add minutes before weight, reach 10% in 8 weeks. Free calculator: type your weight, get your starting load.",
+      "link": "https://glowup90challenge.com/vest/",
+      "board": "Beginner Gym Guide for Women",
+      "boardServiceId": "1110700395541740416",
+      "approved": true
+    },
+    {
+      "order": 3,
+      "file": "w6-neck-fix.png",
+      "title": "Weighted vest neck and shoulder pain - 5 fixes",
+      "desc": "A sore neck or flushed face after a vest walk means the vest presses on the nerves in your neck: too low, too loose or too heavy. Five fixes, and a free calculator for the right starting weight.",
+      "link": "https://glowup90challenge.com/vest/",
+      "board": "Women's Health Printables Over 40",
+      "boardServiceId": "1110700395541740404",
+      "approved": true
+    },
+    {
+      "order": 4,
+      "file": "w6-water-bottles.png",
+      "title": "Weighted walking without a vest - the backpack trick",
+      "desc": "Each 500 ml bottle is half a kilo. Straps high and tight and you have weeks 1-2 of a weighted walking plan before spending money. Too tired halfway? Pour one out. Free calculator for your starting load.",
+      "link": "https://glowup90challenge.com/vest/",
+      "board": "90 Day Challenge Ideas & Printables",
+      "boardServiceId": "1110700395541740412",
+      "approved": true
+    },
+    {
+      "order": 5,
+      "file": "w6-plan.png",
+      "title": "8 week weighted vest walking plan - beginner printable",
+      "desc": "Week-by-week loads and minutes, an indoor option for every week, and the two rules that prevent most vest injuries. Printable PDF with a session log.",
+      "link": "https://www.etsy.com/listing/4565511692",
+      "board": "90 Day Challenge Ideas & Printables",
+      "boardServiceId": "1110700395541740412",
+      "approved": true
+    },
+    {
+      "order": 6,
+      "file": "w6-before-you-buy.png",
+      "title": "Weighted vest for beginners - what to know before the first walk",
+      "desc": "The starting weight, the first walk, who should ask a doctor first, and the backpack alternative. From the printable Weighted Walks 8-week plan.",
+      "link": "https://www.etsy.com/listing/4565511692",
+      "board": "Women's Health Printables Over 40",
+      "boardServiceId": "1110700395541740404",
+      "approved": true
+    },
+    {
+      "order": 7,
+      "file": "w6-plateau.png",
+      "title": "Walking plateau fix - add a weighted vest, not more hours",
+      "desc": "When daily walks stop moving the needle, load beats duration: a vest at 5-10% of bodyweight makes the same 30 minutes count again. The 8-week printable plan takes you there safely.",
+      "link": "https://www.etsy.com/listing/4565511692",
+      "board": "Self Improvement Printables",
+      "boardServiceId": "1110700395541740415",
+      "approved": true
+    },
+    {
+      "order": 8,
       "file": "v4-not-just-hot-flashes.png",
       "title": "Unusual perimenopause symptoms nobody mentions",
       "desc": "Palpitations, itchy skin, dizziness and tinnitus all show up in perimenopause and rarely get linked to it. Track the odd ones next to the obvious ones. Free printable symptom tracker.",
@@ -11,7 +91,7 @@
       "approved": true
     },
     {
-      "order": 1,
+      "order": 9,
       "file": "q4-nobody-warned.png",
       "title": "Perimenopause can start in your early 40s - here is what to track",
       "desc": "Perimenopause often starts years before anyone mentions the word. If your sleep, cycle or mood changed this year, write it down for a month before you decide it is nothing. Free printable symptom tracker.",
@@ -21,7 +101,7 @@
       "approved": true
     },
     {
-      "order": 2,
+      "order": 10,
       "file": "m4-bundle-app-phone.png",
       "title": "90 Day Glow Up Bundle - beginner gym guide, planner and habit app",
       "desc": "A 90 day bundle for starting over: illustrated beginner gym guide, printable consistency planner and a simple phone app to tick the day off. Instant download.",
@@ -31,7 +111,7 @@
       "approved": true
     },
     {
-      "order": 3,
+      "order": 11,
       "file": "v4-tracker-that-lasts.png",
       "title": "Why habit trackers fail in week 3 and how to build one that lasts",
       "desc": "Most trackers die in the third week because they ask too much. One habit, a two-second tick and a visible spot on the fridge. Free printable habit tracker.",
@@ -41,7 +121,7 @@
       "approved": true
     },
     {
-      "order": 4,
+      "order": 12,
       "file": "q4-walk-counts.png",
       "title": "Small daily wins - the walk you actually take counts",
       "desc": "Twenty minutes outside, done, is worth more than the hour-long session that kept getting moved. Track the small stuff and the big stuff follows. Free starter kit with a one-page habit tracker.",
@@ -51,7 +131,7 @@
       "approved": true
     },
     {
-      "order": 5,
+      "order": 13,
       "file": "m4-tracker-desk.png",
       "title": "Perimenopause Symptom Tracker - 12 month Google Sheets + PDF planner",
       "desc": "Perimenopause symptom tracker with 12 monthly tabs, colour-coded by severity, plus a printable PDF planner. Log sleep, mood, hot flashes and cycle in seconds. Instant download.",
@@ -61,7 +141,7 @@
       "approved": true
     },
     {
-      "order": 6,
+      "order": 14,
       "file": "v4-tell-your-doctor.png",
       "title": "How to talk to your doctor about perimenopause - first minute script",
       "desc": "Open with the duration, the worst symptom and what it is costing you, and the appointment goes somewhere. Free printable prep checklist and symptom tracker.",
@@ -71,7 +151,7 @@
       "approved": true
     },
     {
-      "order": 7,
+      "order": 15,
       "file": "q4-hot-not-crazy.png",
       "title": "Night sweats in perimenopause - log them, show your doctor",
       "desc": "A wave of heat at 2am with the window open is a symptom, not a mood. Note the time and the day you had, and after a few weeks the pattern is on paper. Free printable starter kit.",
@@ -81,7 +161,7 @@
       "approved": true
     },
     {
-      "order": 8,
+      "order": 16,
       "file": "m4-planner-sofa.png",
       "title": "90 Day Consistency Planner PDF - one page a day habit tracker",
       "desc": "Printable 90 day planner, one page per day: a non-negotiable, a short task list and built-in grace days. Print it or use it on a tablet. Instant download.",
@@ -91,7 +171,7 @@
       "approved": true
     },
     {
-      "order": 9,
+      "order": 17,
       "file": "v4-first-visit.png",
       "title": "First time at the gym - a 30 minute plan for beginners",
       "desc": "A first gym visit should be short and end early. One lap, two machines, weights written down, out the door. Free beginner starter kit with a tracker.",
@@ -101,7 +181,7 @@
       "approved": true
     },
     {
-      "order": 10,
+      "order": 18,
       "file": "q4-show-up-early.png",
       "title": "Gym anxiety tip for beginners - go at the quiet hour first",
       "desc": "The first visit is easier at 7am on a weekday when the floor is empty. Walk the machines, try two, leave. The second visit is the real start. Free beginner starter kit.",
@@ -111,7 +191,7 @@
       "approved": true
     },
     {
-      "order": 11,
+      "order": 19,
       "file": "m4-gym-cover-mat.png",
       "title": "Beginner Gym Guide PDF for Women - 4 day split with illustrations",
       "desc": "Illustrated beginner gym guide with a 4 day split, machine-by-machine form cues, sets and reps, and a weight log. Instant download.",
@@ -121,7 +201,7 @@
       "approved": true
     },
     {
-      "order": 12,
+      "order": 20,
       "file": "v4-evening-reset.png",
       "title": "Simple evening routine for better sleep - 5 minutes",
       "desc": "Close the day in five minutes: tick the box, write tomorrow's one thing, water by the bed, phone out of the room. Free printable routine starter kit.",
@@ -131,7 +211,7 @@
       "approved": true
     },
     {
-      "order": 13,
+      "order": 21,
       "file": "q4-same-pen.png",
       "title": "How to make a daily routine stick - keep it boring",
       "desc": "Routines survive on sameness: one page, one pen, one time of day. The excitement is supposed to run out. Free printable starter kit for women rebuilding a routine.",
