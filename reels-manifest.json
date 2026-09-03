@@ -3,6 +3,30 @@
   "reels": [
     {
       "order": 1,
+      "dir": "vest-reel-1-starter",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.2,
+      "music": "cc",
+      "format": "vest-test",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 2,
+      "dir": "vest-reel-2-neck-fix",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.2,
+      "music": "cc",
+      "format": "vest-test",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 3,
       "dir": "hook-carousel-14-reel",
       "source_post": "hook-carousel-14",
       "color": "cream",
@@ -14,7 +38,7 @@
       "buffer_post_id": "6a74f352f6ddee415dd4ee3a"
     },
     {
-      "order": 2,
+      "order": 4,
       "dir": "hook-carousel-15-reel",
       "source_post": "hook-carousel-15",
       "color": "pink",
@@ -25,7 +49,7 @@
       "approved": true
     },
     {
-      "order": 3,
+      "order": 5,
       "dir": "hook-carousel-19-reel",
       "source_post": "hook-carousel-19",
       "color": "cream",
@@ -36,7 +60,7 @@
       "approved": true
     },
     {
-      "order": 4,
+      "order": 6,
       "dir": "hook-carousel-17-reel",
       "source_post": "hook-carousel-17",
       "color": "pink",
@@ -47,7 +71,7 @@
       "approved": true
     },
     {
-      "order": 5,
+      "order": 7,
       "dir": "hook-carousel-21-reel",
       "source_post": "hook-carousel-21",
       "color": "cream",
@@ -58,7 +82,7 @@
       "approved": true
     },
     {
-      "order": 6,
+      "order": 8,
       "dir": "hook-carousel-22-reel",
       "source_post": "hook-carousel-22",
       "color": "cream",
@@ -69,7 +93,7 @@
       "approved": false
     },
     {
-      "order": 7,
+      "order": 9,
       "dir": "hook-carousel-23-reel",
       "source_post": "hook-carousel-23",
       "color": "pink",
@@ -80,7 +104,7 @@
       "approved": false
     },
     {
-      "order": 8,
+      "order": 10,
       "dir": "hook-carousel-26-reel",
       "source_post": "hook-carousel-26",
       "color": "pink",
@@ -91,7 +115,7 @@
       "approved": false
     },
     {
-      "order": 9,
+      "order": 11,
       "dir": "hook-carousel-27-reel",
       "source_post": "hook-carousel-27",
       "color": "cream",
@@ -102,7 +126,7 @@
       "approved": false
     },
     {
-      "order": 10,
+      "order": 12,
       "dir": "hook-carousel-29-reel",
       "source_post": "hook-carousel-29",
       "color": "cream",
@@ -113,7 +137,7 @@
       "approved": false
     },
     {
-      "order": 11,
+      "order": 13,
       "dir": "reel-walk-counts",
       "source_post": "",
       "color": "cream",
@@ -125,7 +149,7 @@
       "approved": false
     },
     {
-      "order": 12,
+      "order": 14,
       "dir": "reel-skipped-1-day",
       "source_post": "",
       "color": "pink",
@@ -137,7 +161,7 @@
       "approved": false
     },
     {
-      "order": 13,
+      "order": 15,
       "dir": "reel-nobody-looking",
       "source_post": "",
       "color": "cream",
@@ -149,7 +173,7 @@
       "approved": false
     },
     {
-      "order": 14,
+      "order": 16,
       "dir": "reel-restart-at-lunch",
       "source_post": "",
       "color": "pink",
@@ -161,7 +185,7 @@
       "approved": false
     },
     {
-      "order": 15,
+      "order": 17,
       "dir": "reel-slept-5-hours",
       "source_post": "hook-carousel-32",
       "color": "cream",
@@ -173,7 +197,7 @@
       "approved": false
     },
     {
-      "order": 16,
+      "order": 18,
       "dir": "reel-wins-nobody-claps-for",
       "source_post": "",
       "color": "pink",
