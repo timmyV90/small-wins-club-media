@@ -3,78 +3,6 @@
   "reels": [
     {
       "order": 1,
-      "dir": "reel-walk-counts",
-      "source_post": "",
-      "color": "cream",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "cafe.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 2,
-      "dir": "reel-skipped-1-day",
-      "source_post": "",
-      "color": "pink",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "monkeybars.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 3,
-      "dir": "reel-nobody-looking",
-      "source_post": "",
-      "color": "cream",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "break.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 4,
-      "dir": "reel-restart-at-lunch",
-      "source_post": "",
-      "color": "pink",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "ramen.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 5,
-      "dir": "reel-slept-5-hours",
-      "source_post": "hook-carousel-32",
-      "color": "cream",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "lofi-lion.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 6,
-      "dir": "reel-wins-nobody-claps-for",
-      "source_post": "",
-      "color": "pink",
-      "cta": "follow-only",
-      "seconds": 10.0,
-      "music": "cafe.mp3",
-      "format": "reel-first",
-      "status": "pending",
-      "approved": true
-    },
-    {
-      "order": 7,
       "dir": "hook-carousel-14-reel",
       "source_post": "hook-carousel-14",
       "color": "cream",
@@ -86,7 +14,7 @@
       "buffer_post_id": "6a74f352f6ddee415dd4ee3a"
     },
     {
-      "order": 8,
+      "order": 2,
       "dir": "hook-carousel-15-reel",
       "source_post": "hook-carousel-15",
       "color": "pink",
@@ -97,7 +25,7 @@
       "approved": true
     },
     {
-      "order": 9,
+      "order": 3,
       "dir": "hook-carousel-19-reel",
       "source_post": "hook-carousel-19",
       "color": "cream",
@@ -108,7 +36,7 @@
       "approved": true
     },
     {
-      "order": 10,
+      "order": 4,
       "dir": "hook-carousel-17-reel",
       "source_post": "hook-carousel-17",
       "color": "pink",
@@ -119,7 +47,7 @@
       "approved": true
     },
     {
-      "order": 11,
+      "order": 5,
       "dir": "hook-carousel-21-reel",
       "source_post": "hook-carousel-21",
       "color": "cream",
@@ -130,7 +58,7 @@
       "approved": true
     },
     {
-      "order": 12,
+      "order": 6,
       "dir": "hook-carousel-22-reel",
       "source_post": "hook-carousel-22",
       "color": "cream",
@@ -138,10 +66,10 @@
       "seconds": 14.2,
       "music": "cafe.mp3",
       "status": "pending",
-      "approved": true
+      "approved": false
     },
     {
-      "order": 13,
+      "order": 7,
       "dir": "hook-carousel-23-reel",
       "source_post": "hook-carousel-23",
       "color": "pink",
@@ -149,10 +77,10 @@
       "seconds": 14.2,
       "music": "monkeybars.mp3",
       "status": "pending",
-      "approved": true
+      "approved": false
     },
     {
-      "order": 14,
+      "order": 8,
       "dir": "hook-carousel-26-reel",
       "source_post": "hook-carousel-26",
       "color": "pink",
@@ -160,10 +88,10 @@
       "seconds": 14.2,
       "music": "break.mp3",
       "status": "pending",
-      "approved": true
+      "approved": false
     },
     {
-      "order": 15,
+      "order": 9,
       "dir": "hook-carousel-27-reel",
       "source_post": "hook-carousel-27",
       "color": "cream",
@@ -171,10 +99,10 @@
       "seconds": 14.2,
       "music": "ramen.mp3",
       "status": "pending",
-      "approved": true
+      "approved": false
     },
     {
-      "order": 16,
+      "order": 10,
       "dir": "hook-carousel-29-reel",
       "source_post": "hook-carousel-29",
       "color": "cream",
@@ -182,7 +110,79 @@
       "seconds": 14.2,
       "music": "lofi-lion.mp3",
       "status": "pending",
-      "approved": true
+      "approved": false
+    },
+    {
+      "order": 11,
+      "dir": "reel-walk-counts",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "cafe.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 12,
+      "dir": "reel-skipped-1-day",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "monkeybars.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 13,
+      "dir": "reel-nobody-looking",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "break.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 14,
+      "dir": "reel-restart-at-lunch",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "ramen.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 15,
+      "dir": "reel-slept-5-hours",
+      "source_post": "hook-carousel-32",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "lofi-lion.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 16,
+      "dir": "reel-wins-nobody-claps-for",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "cafe.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
     }
   ]
 }
