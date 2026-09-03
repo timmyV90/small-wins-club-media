@@ -111,6 +111,78 @@
       "music": "lofi-lion.mp3",
       "status": "pending",
       "approved": true
+    },
+    {
+      "order": 11,
+      "dir": "reel-walk-counts",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "cafe.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 12,
+      "dir": "reel-skipped-1-day",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "monkeybars.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 13,
+      "dir": "reel-nobody-looking",
+      "source_post": "",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "break.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 14,
+      "dir": "reel-restart-at-lunch",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "ramen.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 15,
+      "dir": "reel-slept-5-hours",
+      "source_post": "hook-carousel-32",
+      "color": "cream",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "lofi-lion.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
+    },
+    {
+      "order": 16,
+      "dir": "reel-wins-nobody-claps-for",
+      "source_post": "",
+      "color": "pink",
+      "cta": "follow-only",
+      "seconds": 10.0,
+      "music": "cafe.mp3",
+      "format": "reel-first",
+      "status": "pending",
+      "approved": false
     }
   ]
 }

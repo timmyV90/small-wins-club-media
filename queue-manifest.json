@@ -503,6 +503,117 @@
       "status": "pending",
       "approved": true,
       "buffer_post_id": null
+    },
+    {
+      "order": 46,
+      "dir": "hook-carousel-30",
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 47,
+      "dir": "hook-carousel-31",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 48,
+      "dir": "reminder-card-9",
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 49,
+      "dir": "hook-carousel-32",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 50,
+      "dir": "hook-carousel-33",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 51,
+      "dir": "narrative-carousel-9",
+      "slides": 6,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null,
+      "note": "First-person: says Tim planned 5 gym days for months and hit 1-2, now trains Mon/Wed/Sat. Confirm before scheduling."
+    },
+    {
+      "order": 52,
+      "dir": "reminder-card-10",
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 53,
+      "dir": "hook-carousel-34",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 54,
+      "dir": "hook-carousel-35",
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 55,
+      "dir": "hook-carousel-36",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 5,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
     }
   ],
   "local_posts_root": "posts"
