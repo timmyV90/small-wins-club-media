@@ -344,7 +344,7 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -355,7 +355,7 @@
       "color": "cream",
       "cta": "shop-pitch",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null,
       "claims_confirmed": "2026-08-12"
@@ -367,7 +367,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -378,7 +378,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -389,7 +389,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -400,7 +400,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -411,7 +411,7 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -433,7 +433,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -444,7 +444,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -455,7 +455,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null,
       "claims_confirmed": "2026-08-12"
@@ -478,7 +478,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -489,7 +489,7 @@
       "color": "cream",
       "cta": "shop-pitch",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -500,7 +500,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 4,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -511,7 +511,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -522,7 +522,7 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -533,7 +533,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -544,7 +544,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -555,7 +555,7 @@
       "color": "cream",
       "cta": "shop-pitch",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -566,7 +566,7 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null,
       "note": "First-person: says Tim planned 5 gym days for months and hit 1-2, now trains Mon/Wed/Sat. Confirm before scheduling."
@@ -578,7 +578,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -589,7 +589,7 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -600,7 +600,7 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 5,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
       "buffer_post_id": null
     },
@@ -611,6 +611,117 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 5,
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 56,
+      "dir": "hook-carousel-37",
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 57,
+      "dir": "hook-carousel-38",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 58,
+      "dir": "reminder-card-11",
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 59,
+      "dir": "hook-carousel-39",
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 60,
+      "dir": "hook-carousel-40",
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 61,
+      "dir": "narrative-carousel-10",
+      "slides": 6,
+      "color": "pink",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null,
+      "note": "First-person: says Tim tried to be a 5am person for 2 years, managed it 4 times, now trains at 7pm after dinner. Confirm before scheduling."
+    },
+    {
+      "order": 62,
+      "dir": "reminder-card-12",
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 63,
+      "dir": "hook-carousel-41",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 64,
+      "dir": "hook-carousel-42",
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "batch": 6,
+      "status": "pending",
+      "approved": true,
+      "buffer_post_id": null
+    },
+    {
+      "order": 65,
+      "dir": "hook-carousel-43",
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "batch": 6,
       "status": "pending",
       "approved": true,
       "buffer_post_id": null
