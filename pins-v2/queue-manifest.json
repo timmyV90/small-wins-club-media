@@ -138,8 +138,9 @@
       "link": "https://glowup90challenge.com/vest/",
       "board": "Self Improvement Printables",
       "boardServiceId": "1110700395541740415",
-      "approved": true,
-      "thumb": "wv-reel-starter-vest-thumb.png"
+      "approved": false,
+      "thumb": "wv-reel-starter-vest-thumb.png",
+      "note": "Pinterest rejects Buffer video pins ('site doesn't allow pins'), failed 2026-09-17 and 2026-09-18. Unapproved 2026-09-22."
     },
     {
       "order": 14,
@@ -149,8 +150,9 @@
       "link": "https://www.etsy.com/listing/4565511692",
       "board": "Women's Health Printables Over 40",
       "boardServiceId": "1110700395541740404",
-      "approved": true,
-      "thumb": "wv-reel-neck-fix-thumb.png"
+      "approved": false,
+      "thumb": "wv-reel-neck-fix-thumb.png",
+      "note": "Pinterest rejects Buffer video pins ('site doesn't allow pins'), failed 2026-09-17 and 2026-09-18. Unapproved 2026-09-22."
     },
     {
       "order": 15,
