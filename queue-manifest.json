@@ -622,9 +622,9 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aac3e791cb5c51f705bac3e"
     },
     {
       "order": 57,
@@ -633,9 +633,9 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aac3e797dfa05f625c43197"
     },
     {
       "order": 58,
@@ -644,9 +644,9 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6ab28f9f499df9913442b17a"
     },
     {
       "order": 59,
@@ -655,9 +655,9 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6ab28fa0ec1f16f65d85ce34"
     },
     {
       "order": 60,
@@ -666,9 +666,9 @@
       "color": "cream",
       "cta": "shop-pitch",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6ab28fa035fabc92261ce205"
     },
     {
       "order": 61,
@@ -677,9 +677,9 @@
       "color": "pink",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null,
+      "buffer_post_id": "6ab28fa135fabc92261ce22d",
       "note": "First-person: says Tim tried to be a 5am person for 2 years, managed it 4 times, now trains at 7pm after dinner. Confirm before scheduling."
     },
     {
