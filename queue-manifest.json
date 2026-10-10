@@ -725,6 +725,106 @@
       "status": "queued",
       "approved": true,
       "buffer_post_id": "6aca1575b07d37ac976c2f4d"
+    },
+    {
+      "order": 66,
+      "dir": "reminder-card-13",
+      "batch": 7,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 67,
+      "dir": "hook-carousel-44",
+      "batch": 7,
+      "slides": 2,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 68,
+      "dir": "reminder-card-14",
+      "batch": 7,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 69,
+      "dir": "hook-carousel-45",
+      "batch": 7,
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 70,
+      "dir": "reminder-card-15",
+      "batch": 7,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 71,
+      "dir": "reminder-card-16",
+      "batch": 7,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 72,
+      "dir": "hook-carousel-46",
+      "batch": 7,
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 73,
+      "dir": "reminder-card-17",
+      "batch": 7,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 74,
+      "dir": "reminder-card-18",
+      "batch": 7,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 75,
+      "dir": "hook-carousel-47",
+      "batch": 7,
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
     }
   ],
   "local_posts_root": "posts"
