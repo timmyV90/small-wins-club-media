@@ -689,9 +689,9 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aca1574ed92ed8fa5c5eff5"
     },
     {
       "order": 63,
@@ -700,9 +700,9 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aca1574c4de2d2b12234028"
     },
     {
       "order": 64,
@@ -711,9 +711,9 @@
       "color": "cream",
       "cta": "follow-only",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aca1574c4de2d2b12234058"
     },
     {
       "order": 65,
@@ -722,9 +722,9 @@
       "color": "pink",
       "cta": "shop-pitch",
       "batch": 6,
-      "status": "pending",
+      "status": "queued",
       "approved": true,
-      "buffer_post_id": null
+      "buffer_post_id": "6aca1575b07d37ac976c2f4d"
     }
   ],
   "local_posts_root": "posts"
