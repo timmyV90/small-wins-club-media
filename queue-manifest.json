@@ -733,8 +733,9 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfb059eb1800645d01e"
     },
     {
       "order": 67,
@@ -743,8 +744,9 @@
       "slides": 2,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfbb9948a7ec0694150"
     },
     {
       "order": 68,
@@ -753,8 +755,9 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfc61ffad979f0d421e"
     },
     {
       "order": 69,
@@ -763,8 +766,9 @@
       "slides": 2,
       "color": "pink",
       "cta": "shop-pitch",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfcb9948a7ec06941ad"
     },
     {
       "order": 70,
@@ -773,8 +777,9 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfd2720e98a091daf8f"
     },
     {
       "order": 71,
@@ -783,8 +788,9 @@
       "slides": 1,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfdb9948a7ec0694225"
     },
     {
       "order": 72,
@@ -793,8 +799,9 @@
       "slides": 2,
       "color": "cream",
       "cta": "shop-pitch",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfe38bcdab6ee512a7b"
     },
     {
       "order": 73,
@@ -803,8 +810,9 @@
       "slides": 1,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcfe61ffad979f0d4350"
     },
     {
       "order": 74,
@@ -813,8 +821,9 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6ad5fcff189a03b5ff212795"
     },
     {
       "order": 75,
