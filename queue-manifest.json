@@ -834,6 +834,106 @@
       "cta": "shop-pitch",
       "status": "pending",
       "approved": true
+    },
+    {
+      "order": 76,
+      "dir": "hook-carousel-48",
+      "batch": 8,
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 77,
+      "dir": "reminder-card-19",
+      "batch": 8,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 78,
+      "dir": "hook-carousel-49",
+      "batch": 8,
+      "slides": 4,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 79,
+      "dir": "reminder-card-20",
+      "batch": 8,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 80,
+      "dir": "reminder-card-21",
+      "batch": 8,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 81,
+      "dir": "hook-carousel-50",
+      "batch": 8,
+      "slides": 3,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 82,
+      "dir": "reminder-card-22",
+      "batch": 8,
+      "slides": 1,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 83,
+      "dir": "hook-carousel-51",
+      "batch": 8,
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 84,
+      "dir": "hook-carousel-52",
+      "batch": 8,
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 85,
+      "dir": "reminder-card-23",
+      "batch": 8,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
     }
   ],
   "local_posts_root": "posts"
