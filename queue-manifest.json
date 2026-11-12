@@ -832,8 +832,9 @@
       "slides": 2,
       "color": "pink",
       "cta": "shop-pitch",
-      "status": "pending",
-      "approved": true
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6af616073bbc1bfc158c6199"
     },
     {
       "order": 76,
@@ -842,7 +843,7 @@
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -852,7 +853,7 @@
       "slides": 1,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -862,7 +863,7 @@
       "slides": 4,
       "color": "cream",
       "cta": "shop-pitch",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -872,7 +873,7 @@
       "slides": 1,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -882,7 +883,7 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -892,7 +893,7 @@
       "slides": 3,
       "color": "pink",
       "cta": "shop-pitch",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -902,7 +903,7 @@
       "slides": 1,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -912,7 +913,7 @@
       "slides": 2,
       "color": "pink",
       "cta": "shop-pitch",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -922,7 +923,7 @@
       "slides": 2,
       "color": "cream",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     },
     {
@@ -932,7 +933,7 @@
       "slides": 1,
       "color": "pink",
       "cta": "follow-only",
-      "status": "pending",
+      "status": "queued",
       "approved": true
     }
   ],
