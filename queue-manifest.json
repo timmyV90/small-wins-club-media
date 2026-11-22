@@ -935,6 +935,114 @@
       "cta": "follow-only",
       "status": "queued",
       "approved": true
+    },
+    {
+      "order": 86,
+      "dir": "hook-carousel-53",
+      "batch": 9,
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6b02e102c72676f5e929fa9b"
+    },
+    {
+      "order": 87,
+      "dir": "reminder-card-24",
+      "batch": 9,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6b02e103cc364169c152178d"
+    },
+    {
+      "order": 88,
+      "dir": "hook-carousel-54",
+      "batch": 9,
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6b02e103d864a01105c18e37"
+    },
+    {
+      "order": 89,
+      "dir": "reminder-card-25",
+      "batch": 9,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6b02e104d864a01105c18e5d"
+    },
+    {
+      "order": 90,
+      "dir": "narrative-carousel-11",
+      "batch": 9,
+      "slides": 4,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "queued",
+      "approved": true,
+      "note": "First-person, confirm before scheduling: (1) 'I skip the workouts I plan for myself' and 'by 5pm tomorrow sounds great'; (2) group PT is on the same days and time each week with a trainer and a few other people; (3) 'when I miss group PT, someone asks where I was'. Verified from the repo: 35, full-time service desk job, group PT 2x a week.",
+      "buffer_post_id": "6b02e104cc364169c15217ff"
+    },
+    {
+      "order": 91,
+      "dir": "hook-carousel-55",
+      "batch": 9,
+      "slides": 3,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "queued",
+      "approved": true,
+      "buffer_post_id": "6b02e105cc364169c152182c"
+    },
+    {
+      "order": 92,
+      "dir": "hook-carousel-56",
+      "batch": 9,
+      "slides": 2,
+      "color": "cream",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 93,
+      "dir": "reminder-card-26",
+      "batch": 9,
+      "slides": 1,
+      "color": "pink",
+      "cta": "follow-only",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 94,
+      "dir": "hook-carousel-57",
+      "batch": 9,
+      "slides": 2,
+      "color": "cream",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true
+    },
+    {
+      "order": 95,
+      "dir": "hook-carousel-58",
+      "batch": 9,
+      "slides": 2,
+      "color": "pink",
+      "cta": "shop-pitch",
+      "status": "pending",
+      "approved": true,
+      "note": "Seasonal: only makes sense if it publishes in December. Hold or drop it if the queue pushes it into January."
     }
   ],
   "local_posts_root": "posts"
